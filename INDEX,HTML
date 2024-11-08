@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ejemplo de errores</title>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" type="text/css" href="style.html">
 </head>
 
 
@@ -15,9 +15,11 @@
 <p>Esta es una página de ejemplo para el examen. Aquí se mostrarán algunos
 errores que debes corregir.</p>
 </header>
+</div>
+
 
 <div class="image-container">
-<img src="imagen-ejemplo.jpg" alt="Descripción de la imagen">
+<img src="https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/603_neymar.jpg" alt="Descripción de la imagen">
 <p>Esta es una imagen de ejemplo.</p>
 </div>
 
